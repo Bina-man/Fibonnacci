@@ -12,4 +12,5 @@ def Fibonacci(n):
         return Fibonacci(n-1)+Fibonacci(n-2)
 
 
-print(Fibonacci(9))
+n = int(input("Enter the nth term of Fibonacci series"))
+print(Fibonacci(n))
