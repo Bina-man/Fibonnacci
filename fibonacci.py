@@ -14,4 +14,3 @@ def Fibonacci(n):
 
 n = int(input("Enter the nth term of Fibonacci series"))
 print(Fibonacci(n))
-jkdshzdsjkh
